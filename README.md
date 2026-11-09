@@ -36,7 +36,7 @@ A lightweight Python application that helps students explore lecture notes in PD
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/ai-study-assistant.git
+git clone https://github.com/icarus9111/ai-study-assistant.git
 cd ai-study-assistant
 ```
 
