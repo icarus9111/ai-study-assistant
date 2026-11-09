@@ -102,3 +102,11 @@ PDFs are processed locally by this application. The project does not send docume
 ## Project status
 
 **Version 1.0 — lightweight local PDF retrieval and extractive question answering.**
+
+## Screenshots
+
+### Application Interface
+![Application Interface](screenshots/app-home.png)
+
+### PDF Upload
+![PDF Upload](screenshots/pdf-upload.png)
