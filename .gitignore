@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local documents and test data
+*.pdf
+uploads/
+data/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
